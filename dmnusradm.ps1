@@ -26,8 +26,7 @@
 
 		Adds AD\TestUser1 Group to local administrators group on servers listed in c:\servers.txt
     .Notes
-		Author : Sitaram Pamarthi
-		WebSite: http://techibee.com
+		Author : Jasvant Dosanjh
 
 #>
 [CmdletBinding()]
